@@ -16,7 +16,7 @@ Follow these steps to set up the application:
 1. Open Powershell/Terminal and Clone the repository to your local machine:
 
    ```bash
-   git clone *clone link*
+   git clone https://github.com/srirekha03/To-Do-List.git
    ```
 
 2. Navigate to the project directory:
